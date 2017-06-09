@@ -8,9 +8,5 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 </IfModule>
-redirect 301 /new_test1 http://tradingprosto.ru/new_test/
-redirect 301 /new_test2 http://tradingprosto.ru/new_test/
 
-php_value upload_max_filesize 20M
-php_value post_max_size 20M
 # END WordPress

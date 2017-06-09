@@ -1,0 +1,1010 @@
+# Translation of Themes - Responsive Mobile in Russian
+# This file is distributed under the same license as the Themes - Responsive Mobile package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-23 16:13:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Responsive Mobile\n"
+
+#. Template Name of the plugin/theme
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+#. Template Name of the plugin/theme
+msgid "Blog Excerpt (summary)"
+msgstr "Блог отрывок (резюме)"
+
+#. Template Name of the plugin/theme
+msgid "Blog (full posts)"
+msgstr "Блог (полная статья)"
+
+#. Template Name of the plugin/theme
+msgid "Landing Page (no menu)"
+msgstr "Целевая страница (без меню)"
+
+#: template-parts/post-data.php:53
+msgid "Edit"
+msgstr "Изменить"
+
+#: template-parts/post-data.php:47
+msgid "Tagged with %1$s"
+msgstr "Tagged с %1$ s"
+
+#: template-parts/post-data.php:33
+msgid "Posted in %1$s"
+msgstr "Опубликовано в рубрике %1$s"
+
+#: template-parts/loop-nav.php:28
+msgid "&larr;"
+msgstr "&larr;"
+
+#: template-parts/loop-nav.php:29
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#. translators: used between list items, there is a space after the comma
+#: template-parts/post-data.php:26 template-parts/post-data.php:39
+msgid ", "
+msgstr ", "
+
+#: template-parts/loop-header.php:49
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: template-parts/content-sitemap.php:43
+msgid "Pages"
+msgstr "Страницы"
+
+#: template-parts/content-sitemap.php:36
+msgid "Permanent Link to %s"
+msgstr "Постоянная ссылка на запись &laquo;%s&raquo;"
+
+#: template-parts/content-sitemap.php:32
+msgid "Latest Posts"
+msgstr "Свежие посты"
+
+#: template-parts/content-none.php:63
+msgid "&larr; Home"
+msgstr "&#8678; Начало"
+
+#: template-parts/content-sitemap.php:27
+msgid "Categories"
+msgstr "Рубрики"
+
+#: template-parts/content-none.php:53
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr "Страница, которую Вы ищете, не существует или просто перемещена. Не волнуйтесь, рассмотрите предлагаемые варианты."
+
+#: template-parts/content-none.php:58
+msgid "You can return %s or search for the page you were looking for."
+msgstr "Вы можете вернуться в %s или воспользоваться поиском и найти нужную Вам страницу"
+
+#: template-parts/content-none.php:54
+msgid "The URL may be misspelled or the page you are looking for is no longer available."
+msgstr "URL-адрес может быть опечатка или страница, которую вы ищете больше не доступен."
+
+#: sidebar-left-half.php:28 sidebar-left.php:28 sidebar-right-half.php:28
+#: sidebar-right.php:28 sidebar.php:56
+msgid "In Archive"
+msgstr "В архиве"
+
+#: template-parts/content-none.php:34
+msgid "Ready to publish your first post?"
+msgstr "Вы готовы опубликовать первый пост?"
+
+#: template-parts/content-none.php:35
+msgid "Get started here"
+msgstr "Начать здесь"
+
+#: template-parts/content-none.php:50
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 &#8212; Страница не найдена!"
+
+#: sidebar-home.php:30
+msgid "This is your first home widget box. To edit please go to Appearance > Widgets and choose 6th widget from the top in area 6 called Home Widget 1. Title is also manageable from widgets as well."
+msgstr "Это окно Вашего виджета №1. Для редактирования перейдите по ссылке Внешний вид > Виджеты и выберите 6-й виджет сверху с названием Виджет №1. Заголовок также изменяется в виджетах."
+
+#: sidebar-home.php:45
+msgid "This is your second home widget box. To edit please go to Appearance > Widgets and choose 7th widget from the top in area 7 called Home Widget 2. Title is also manageable from widgets as well."
+msgstr "Это окно Вашего виджета №2. Для редактирования перейдите по ссылке Внешний вид > Виджеты и выберите 7-й виджет сверху с названием Виджет №2. Заголовок также изменяется в виджетах."
+
+#: sidebar-home.php:60
+msgid "This is your third home widget box. To edit please go to Appearance > Widgets and choose 8th widget from the top in area 8 called Home Widget 3. Title is also manageable from widgets as well."
+msgstr "Это окно Вашего виджета №3. Для редактирования перейдите по ссылке Внешний вид > Виджеты и выберите 8-й виджет сверху с названием Виджет №3. Заголовок также изменяется в виджетах."
+
+#: template-parts/content-none.php:30
+msgid "No posts published yet"
+msgstr "Нет сообщений, опубликованных еще"
+
+#: template-parts/content-none.php:41
+msgid "No results"
+msgstr "Результаты не"
+
+#: template-parts/content-none.php:44
+msgid "Your search for \"%s\" did not match any entries."
+msgstr "По Вашему запросу «%s» не найдено каких-либо записей."
+
+#: sidebar-gallery.php:46
+msgid "ISO:"
+msgstr "ISO:"
+
+#: sidebar-gallery.php:50
+msgid "Shutter:"
+msgstr "Выдержка:"
+
+#: sidebar-gallery.php:65
+msgid "Camera:"
+msgstr "Камера:"
+
+#: sidebar-gallery.php:37
+msgid "Aperture: f&#47;"
+msgstr "Диафрагма: f&#47;"
+
+#: sidebar-gallery.php:42
+msgid "Focal Length:"
+msgstr "Фокус:"
+
+#: sidebar-gallery.php:42
+msgid "mm"
+msgstr "мм"
+
+#: sidebar-gallery.php:29
+msgid "Image Information"
+msgstr "Информация об изображении"
+
+#: sidebar-gallery.php:33
+msgid "Full Size:"
+msgstr "Полный размер:"
+
+#: page-templates/blog-excerpt.php:54 page-templates/blog.php:66
+msgid "&#8249; Older posts"
+msgstr "&#8249; Старые публикации"
+
+#: page-templates/blog-excerpt.php:55 page-templates/blog.php:68
+msgid "Newer posts &#8250;"
+msgstr "Новые публикации &#8250;"
+
+#: libraries/class-responsive-options.php:552
+#: libraries/class-responsive-options.php:575
+msgid "Options Imported"
+msgstr "Параметры импорта"
+
+#: libraries/class-responsive-options.php:557
+#: libraries/class-responsive-options.php:580
+msgid "Invalid Data for Import"
+msgstr "Недопустимые данные для импорта"
+
+#: libraries/class-responsive-options.php:386
+msgid "Restore Defaults"
+msgstr "Восстановить по умолчанию"
+
+#: libraries/class-responsive-options.php:386
+msgid "Save Options"
+msgstr "Сохранить изменения"
+
+#: libraries/class-responsive-options.php:110
+msgid "Options Saved"
+msgstr "Параметры сохранены"
+
+#: libraries/class-meta-box.php:1944
+msgid "or enter URL"
+msgstr "или введите URL-адрес"
+
+#: libraries/class-responsive-options.php:49
+msgid "Do you want to restore the default settings?"
+msgstr "Вы хотите восстановить настройки по умолчанию?"
+
+#: libraries/class-responsive-options.php:49
+msgid "All theme settings will be lost!"
+msgstr "Все темы настройки будут потеряны!"
+
+#: libraries/class-responsive-options.php:49
+msgid "Click OK to restore."
+msgstr "Нажмите кнопку ОК для восстановления."
+
+#: libraries/class-meta-box.php:1943
+msgid "Upload"
+msgstr "Загрузить"
+
+#: libraries/class-meta-box.php:1791 libraries/class-meta-box.php:1801
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr "К сожалению, вы не можете загрузить этот тип файла для этого поля."
+
+#: includes/functions.php:75
+msgid "Sub-Header Menu"
+msgstr "Подзаголовок меню"
+
+#: includes/functions.php:76
+msgid "Footer Menu"
+msgstr "Меню в футере"
+
+#: includes/functions.php:74
+msgid "Header Menu"
+msgstr "Заголовок меню"
+
+#: includes/functions-theme-options.php:355
+msgid "Embeds to footer.php &darr;"
+msgstr "Встраивается в footer.php &#8681;"
+
+#: includes/functions-theme-options.php:358
+msgid "Enter your custom footer script."
+msgstr "Введите Ваши собственные скрипты в подвале."
+
+#: includes/functions.php:73
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: includes/functions-theme-options.php:342
+msgid "Scripts"
+msgstr "Скрипты"
+
+#: includes/functions-theme-options.php:345
+msgid "Custom Scripts for Header and Footer"
+msgstr "Собственные скрипты для шапки и подвала"
+
+#: includes/functions-theme-options.php:347
+msgid "Embeds to header.php &darr;"
+msgstr "Встраивается в header.php &#8681;"
+
+#: includes/functions-theme-options.php:350
+msgid "Enter your custom header script."
+msgstr "Введите свои собственные скрипты в шапке."
+
+#: includes/functions-theme-options.php:346
+msgid "Quick Tutorial"
+msgstr "Краткое руководство"
+
+#: includes/functions-theme-options.php:335
+msgid "Enter your custom CSS styles."
+msgstr "Введите ваш стиль CSS"
+
+#: includes/functions-theme-options.php:321
+msgid "Enter your foursquare URL"
+msgstr "Введите свой URL адрес в foursquare"
+
+#: includes/functions-theme-options.php:331
+msgid "Custom CSS Styles"
+msgstr "Пользовательские стили CSS"
+
+#: includes/functions-theme-options.php:332
+msgid "CSS Tutorial"
+msgstr "Учебник CSS"
+
+#: includes/functions-theme-options.php:328
+msgid "CSS Styles"
+msgstr "Стили CSS"
+
+#: includes/functions-theme-options.php:318
+msgid "foursquare"
+msgstr "FourSquare"
+
+#: includes/functions-theme-options.php:313
+msgid "Enter your Vimeo URL"
+msgstr "Введите свой URL адрес в Vimeo"
+
+#: includes/functions-theme-options.php:310
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/functions-theme-options.php:296
+msgid "Enter your Pinterest URL"
+msgstr "Введите свой URL адрес в Pinterest"
+
+#: includes/functions-theme-options.php:293
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/functions-theme-options.php:288
+msgid "Enter your Instagram URL"
+msgstr "Введите свой URL адрес в Instagram"
+
+#: includes/functions-theme-options.php:285
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/functions-theme-options.php:280
+msgid "Enter your Google+ URL"
+msgstr "Введите свой URL адрес в Google+"
+
+#: includes/functions-theme-options.php:272
+msgid "Enter your RSS Feed URL"
+msgstr "Введите свой URL адрес RSS канала"
+
+#: includes/functions-theme-options.php:277
+msgid "Google+"
+msgstr "Google+"
+
+#: includes/functions-theme-options.php:269
+msgid "RSS Feed"
+msgstr "RSS лента"
+
+#: includes/functions-theme-options.php:264
+msgid "Enter your StumbleUpon URL"
+msgstr "Введите свой URL адрес в StumbleUpon"
+
+#: includes/functions-theme-options.php:261
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: includes/functions-theme-options.php:256
+msgid "Enter your YouTube URL"
+msgstr "Введите свой URL адрес в YouTube"
+
+#: includes/functions-theme-options.php:253
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/functions-theme-options.php:248
+msgid "Enter your LinkedIn URL"
+msgstr "Введите свой URL адрес в LinkedIn"
+
+#: includes/functions-theme-options.php:245
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: includes/functions-theme-options.php:240
+msgid "Enter your Facebook URL"
+msgstr "Введите свой URL адрес в Facebook"
+
+#: includes/functions-theme-options.php:237
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/functions-theme-options.php:232
+msgid "Enter your Twitter URL"
+msgstr "Введите свой URL адрес в Twitter"
+
+#: includes/functions-theme-options.php:229
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/functions-theme-options.php:189
+msgid "Paste your shortcode, video or image source"
+msgstr "Вставьте свой шорткод, источник на видео или изображение"
+
+#: includes/functions-theme-options.php:197
+msgid "Default Layouts"
+msgstr "Макеты по умолчанию"
+
+#: includes/functions-theme-options.php:200
+msgid "Default Static Page Layout"
+msgstr "Макет статической страницы по умолчанию"
+
+#: includes/functions-theme-options.php:208
+msgid "Default Single Blog Post Layout"
+msgstr "Макет одной статьи блога по умолчанию"
+
+#: includes/functions-theme-options.php:216
+msgid "Default Blog Posts Index Layout"
+msgstr "Макет главной статьи блога по умолчанию"
+
+#: includes/functions-theme-options.php:226
+msgid "Social Icons"
+msgstr "Социальные иконки"
+
+#: includes/functions-theme-options.php:185
+#: includes/functions-theme-options.php:186
+msgid "See Docs"
+msgstr "Cм. документацию"
+
+#: includes/functions-theme-options.php:157
+msgid "Content Area"
+msgstr "Область содержания"
+
+#: includes/functions-theme-options.php:160
+msgid "Enter your content"
+msgstr "Введите свое содержание"
+
+#: includes/functions-theme-options.php:179 template-parts/featured-area.php:60
+msgid "Call to Action"
+msgstr "Призыв к действию (Call to Action)"
+
+#: includes/functions-theme-options.php:184
+msgid "Featured Content"
+msgstr "Избранное содержимое"
+
+#: includes/functions-theme-options.php:143 template-parts/featured-area.php:26
+msgid "Hello, World!"
+msgstr "Привет, мир!"
+
+#: includes/functions-theme-options.php:152 template-parts/featured-area.php:36
+msgid "Your H2 subheadline here"
+msgstr "Ваш &#060;H2&#062; подзаголовок"
+
+#: includes/functions-theme-options.php:161 template-parts/featured-area.php:46
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "Ваш заголовок, подзаголовок и это содержание можно отредактировать в Параметрах темы. А также, кнопку призыва к действию и ссылку его назначения. Справа от Вас может быть изображение или при желании, видео с YouTube."
+
+#: includes/functions-theme-options.php:148
+msgid "Subheadline"
+msgstr "Подзаголовок"
+
+#: includes/functions-theme-options.php:151
+msgid "Enter your subheadline"
+msgstr "Введите свой подзаголовок"
+
+#: includes/functions-theme-options.php:166
+msgid "Call to Action (URL)"
+msgstr "Призыв к действию (URL адрес)"
+
+#: includes/functions-theme-options.php:169
+msgid "Enter your call to action URL"
+msgstr "Введите свой URL адрес призыва к действию"
+
+#: includes/functions-theme-options.php:175
+msgid "Call to Action (Text)"
+msgstr "Привыв к действию (Текст)"
+
+#: includes/functions-theme-options.php:178
+msgid "Enter your call to action text"
+msgstr "Введите свой текст призыва к действию"
+
+#: includes/functions-theme-options.php:142
+msgid "Enter your headline"
+msgstr "Введите свой заголовок"
+
+#: includes/functions-theme-options.php:137
+msgid "Headline"
+msgstr "Верхняя линия"
+
+#: includes/functions-theme-options.php:129
+msgid "Enable Custom Front Page"
+msgstr "Включить пользовательскую главную страницу"
+
+#: includes/functions-theme-options.php:132
+msgid "Overrides the WordPress %1sfront page option%2s"
+msgstr "Переопределяет %1sпараметр главной страницы%2s WordPress"
+
+#: includes/functions-theme-options.php:120
+msgid "Need to replace or remove default logo?"
+msgstr "Хотите заменить или удалить стандартный логотип?"
+
+#: includes/functions-theme-options.php:126
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: includes/functions-theme-options.php:120
+msgid "Click here"
+msgstr "нажмите сюда,"
+
+#: includes/functions-theme-options.php:117
+msgid "Custom Header"
+msgstr "Произвольный заголовок"
+
+#: includes/functions-theme-options.php:114
+msgid "Logo Upload"
+msgstr "Загрузка логотипа"
+
+#: includes/functions-theme-options.php:104
+msgid "Disable Call to Action Button?"
+msgstr "Отключить кнопку Призыв к действию?"
+
+#: includes/functions-theme-options.php:96
+msgid "Use minified CSS"
+msgstr "Использование уменьшенная версия CSS"
+
+#: includes/functions-theme-options.php:91
+#: includes/functions-theme-options.php:99
+#: includes/functions-theme-options.php:107
+msgid "Check to disable"
+msgstr " "
+
+#: includes/functions-theme-options.php:88
+msgid "Disable breadcrumb list?"
+msgstr "Отключить список навигатора?"
+
+#. #-#-#-#-#  responsive-mobile.pot (Responsive Mobile 1.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/functions-theme-options.php:48
+msgid "Content/Sidebar"
+msgstr "Публикации/Сайдбар"
+
+#. #-#-#-#-#  responsive-mobile.pot (Responsive Mobile 1.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/functions-theme-options.php:49
+msgid "Sidebar/Content"
+msgstr "Сайдбар/Публикации"
+
+#. #-#-#-#-#  responsive-mobile.pot (Responsive Mobile 1.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/functions-theme-options.php:50
+msgid "Content/Sidebar Half Page"
+msgstr "Публикации/Сайдбар в полстраницы"
+
+#: includes/functions-theme-options.php:51
+msgid "Sidebar/Content Half Page"
+msgstr "Сайдбар/Публикации в полстраницы"
+
+#. #-#-#-#-#  responsive-mobile.pot (Responsive Mobile 1.1)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: includes/functions-theme-options.php:52
+msgid "Full Width Page (no sidebar)"
+msgstr "Страница в полную ширину (без сайдбара)"
+
+#: includes/functions-theme-options.php:85
+msgid "Theme Elements"
+msgstr "Элементы темы"
+
+#: includes/functions-theme-options.php:47
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/functions-theme-options-page.php:107
+msgid "The Custom Front Page is enabled. You can disable it in the <a href=\"%1$s\">theme settings</a>."
+msgstr "На первой странице Custom включена. Его можно отключить в <a href=\"%1$s\"> настройки темы</a>."
+
+#: includes/functions-theme-options-page.php:109
+msgid "The Custom Front Page is disabled. You can enable it in the <a href=\"%1$s\">theme settings</a>."
+msgstr "На первой странице Custom отключена. Его можно включить в <a href=\"%1$s\"> Параметры темы</a>."
+
+#: includes/functions-theme-options-page.php:83
+#: includes/functions-theme-options-page.php:84
+msgid "Showcase"
+msgstr "Сайты на WordPress"
+
+#: includes/functions-theme-options-page.php:80
+#: includes/functions-theme-options-page.php:81
+msgid "Translate"
+msgstr "Перевести"
+
+#: includes/functions-theme-options-page.php:75
+msgid "Instructions"
+msgstr "Инструкции"
+
+#: includes/functions-theme-options-page.php:30
+msgid "Welcome to %s!"
+msgstr "Добро пожаловать на %s!"
+
+#: includes/functions-theme-options-page.php:74
+msgid "Guides"
+msgstr "Гиды"
+
+#: includes/functions-template-tags.php:279
+msgid "Menu"
+msgstr "Меню"
+
+#: includes/functions-template-tags.php:261
+msgid "Archives"
+msgstr "Архивы"
+
+#: includes/functions-template-tags.php:258
+msgid "Chats"
+msgstr "Чаты"
+
+#: includes/functions-template-tags.php:255
+msgid "Audios"
+msgstr "Аудио"
+
+#: includes/functions-template-tags.php:252
+msgid "Statuses"
+msgstr "Статусы"
+
+#: includes/functions-template-tags.php:249
+msgid "Links"
+msgstr "Ссылки"
+
+#: includes/functions-template-tags.php:246
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: includes/functions-template-tags.php:243
+msgid "Videos"
+msgstr "Видео"
+
+#: includes/functions-template-tags.php:240
+msgid "Images"
+msgstr "Изображения"
+
+#: includes/functions-template-tags.php:237
+msgid "Galleries"
+msgstr "Галереи"
+
+#: includes/functions-template-tags.php:234
+msgid "Asides"
+msgstr "Заметки"
+
+#: includes/functions-template-tags.php:231
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: includes/functions-template-tags.php:231
+msgid "Yearly Archives: %s"
+msgstr "Архив за год: %s"
+
+#: includes/functions-template-tags.php:228
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: includes/functions-template-tags.php:228
+msgid "Monthly Archives: %s"
+msgstr "Архив за месяц: %s"
+
+#: includes/functions-template-tags.php:225
+msgid "Daily Archives: %s"
+msgstr "Архив за день: %s"
+
+#: includes/functions-template-tags.php:222
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: includes/functions-template-tags.php:163
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Опубликовано %1$s</span><span class=\"byline\"> автором %2$s</span>"
+
+#: includes/functions-template-tags.php:134
+msgid "by"
+msgstr "Автор:"
+
+#: includes/functions-template-tags.php:117
+msgid "Posted on"
+msgstr "Опубликовано"
+
+#. Translators: (Posted on )(Date)
+#. Translators: ( by )(Author)
+#: includes/functions-template-tags.php:116
+#: includes/functions-template-tags.php:133
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/functions-template-tags.php:74
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: includes/functions-template-tags.php:73
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: includes/functions-template-tags.php:69 template-parts/loop-nav.php:25
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: includes/functions-template-tags.php:43
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующие записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: includes/functions-template-tags.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+#: includes/functions-sidebar.php:116
+msgid "Colophon Widget"
+msgstr "Нижний виджет"
+
+#: includes/functions-sidebar.php:126
+msgid "Top Widget"
+msgstr "Верхний виджет"
+
+#: includes/functions-template-tags.php:34 page-templates/blog.php:62
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: includes/functions-sidebar.php:107
+msgid "Area 9 - sidebar-gallery.php - Displays on the page after an image has been clicked in a Gallery"
+msgstr "Зона 9 боковой gallery.php - отображает на странице после нажатия изображение в галерее"
+
+#: includes/functions-sidebar.php:117
+msgid "Area 10 - sidebar-colophon.php, 100% width Footer widgets"
+msgstr "Площадь 10 - боковой colophon.php, 100% ширины колонтитулом виджеты"
+
+#: includes/functions-sidebar.php:127
+msgid "Area 11 - sidebar-top.php - Displays on the right of the header"
+msgstr "В области 11 боковой top.php - отображается справа от заголовка"
+
+#: includes/functions-sidebar.php:136
+msgid "Footer Widget"
+msgstr "Нижний колонтитул виджета"
+
+#: includes/functions-sidebar.php:137
+msgid "Area 12 - sidebar-footer.php - Maximum of 3 widgets per row"
+msgstr "Площадь 12 - боковой footer.php - максимум 3 виджетов в строке"
+
+#: includes/functions-sidebar.php:86 sidebar-home.php:44
+msgid "Home Widget 2"
+msgstr "Виджет №2"
+
+#: includes/functions-sidebar.php:96 sidebar-home.php:59
+msgid "Home Widget 3"
+msgstr "Виджет №3"
+
+#: includes/functions-sidebar.php:106
+msgid "Gallery Sidebar"
+msgstr "Сайдбар галереи"
+
+#: includes/functions-sidebar.php:77
+msgid "Area 6 - sidebar-home.php - Displays on the Home Page"
+msgstr "6 боковой home.php - район отображается на домашней странице"
+
+#: includes/functions-sidebar.php:87
+msgid "Area 7 - sidebar-home.php - Displays on the Home Page"
+msgstr "В области 7 боковой home.php - отображается на домашней странице"
+
+#: includes/functions-sidebar.php:97
+msgid "Area 8 - sidebar-home.php - Displays on the Home Page"
+msgstr "В области 8 боковой home.php - отображается на домашней странице"
+
+#: includes/functions-sidebar.php:66
+msgid "Right Sidebar Half Page"
+msgstr "Сайдбар справа в полстраницы"
+
+#: includes/functions-sidebar.php:76 sidebar-home.php:29
+msgid "Home Widget 1"
+msgstr "Виджет №1"
+
+#: includes/functions-sidebar.php:67
+msgid "Area 5 - sidebar-right-half.php - Displays on Content/Sidebar Half Page page templates"
+msgstr "Область 5 - боковой право half.php - показывает на половину страницы контента/боковой панели Шаблоны страниц"
+
+#: includes/functions-sidebar.php:56
+msgid "Left Sidebar Half Page"
+msgstr "Сайдбар слева в полстраницы"
+
+#: includes/functions-sidebar.php:47
+msgid "Area 3 - sidebar-left.php - Displays on Sidebar/Content page templates"
+msgstr "Область 3 боковой left.php - отображает содержимое боковой панели Шаблоны страниц"
+
+#: includes/functions-sidebar.php:57
+msgid "Area 4 - sidebar-left-half.php - Displays on Sidebar Half Page/Content page templates"
+msgstr "Область 4 - боковой слева half.php - показывает на половину страницы/содержимое боковой панели Шаблоны страниц"
+
+#: includes/functions-sidebar.php:46
+msgid "Left Sidebar"
+msgstr "Меню слева"
+
+#: includes/functions-sidebar.php:37
+msgid "Area 2 - sidebar-right.php - Displays on Content/Sidebar page templates"
+msgstr "Площадь 2 боковой right.php - показывает на шаблоны страниц содержание/боковой панели"
+
+#: includes/functions-sidebar.php:36
+msgid "Right Sidebar"
+msgstr "Меню справа"
+
+#: includes/functions-sidebar.php:27
+msgid "Area 1 - sidebar.php - Displays on Default, Blog, Blog Excerpt page templates"
+msgstr "Площадь 1 - sidebar.php - отображает по умолчанию, блог, блог отрывок шаблоны страниц"
+
+#: includes/functions-sidebar.php:26
+msgid "Main Sidebar"
+msgstr "Главная боковая колонка"
+
+#: includes/functions-plugins.php:43
+msgid "Responsive Theme"
+msgstr "Тема Responsive"
+
+#: includes/functions-meta-box.php:42
+msgid "Page Options"
+msgstr "Параметры страницы"
+
+#: includes/functions-meta-box.php:31
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: includes/functions-layout.php:104
+msgid "Layout"
+msgstr "Разметка"
+
+#: includes/functions-extras.php:184
+msgid "Read more %s"
+msgstr "Читать дальше %s"
+
+#: includes/functions-extentions.php:206 includes/functions-extras.php:71
+#: includes/functions-extras.php:105
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: includes/functions-extentions.php:59
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: includes/functions-extentions.php:58
+#: includes/functions-template-tags.php:138
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи автора %s"
+
+#: includes/functions-extentions.php:57
+msgid "Posts tagged %s"
+msgstr "Публикации с метками %s"
+
+#: includes/functions-extentions.php:55
+msgid "Archive for %s"
+msgstr "Архив для %s"
+
+#: includes/functions-extentions.php:56
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: includes/functions-extentions.php:54 template-parts/content-none.php:62
+msgid "Home"
+msgstr "Главная"
+
+#: image.php:74
+msgid "Posted in %s"
+msgstr "Опубликовано в %s"
+
+#: image.php:73
+msgid "Tagged with:"
+msgstr "Метки:"
+
+#: image.php:59
+msgid "Read more &#8250;"
+msgstr "Подробнее &#187;"
+
+#: image.php:61 template-parts/content-excerpt.php:40
+#: template-parts/content-page.php:40 template-parts/content-single.php:37
+#: template-parts/content-sitemap.php:48 template-parts/content.php:57
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: image.php:48 template-parts/post-meta-page.php:33
+#: template-parts/post-meta.php:40
+msgid "1 Comment &darr;"
+msgstr "1 комментарий &darr;"
+
+#: image.php:48 template-parts/post-meta-page.php:33
+#: template-parts/post-meta.php:40
+msgid "% Comments &darr;"
+msgstr "% комментариев &darr;"
+
+#: image.php:37
+msgid "&#8249; Return to"
+msgstr "&#8249; Вернуться в"
+
+#: image.php:48 template-parts/post-meta-page.php:33
+#: template-parts/post-meta.php:40
+msgid "No Comments &darr;"
+msgstr "Нет комментариев &darr;"
+
+#: header.php:48
+msgid "Skip to main menu"
+msgstr "Перейти к главному меню"
+
+#: header.php:87
+msgid "Mobile menu toggle"
+msgstr "Мобильное меню переключения"
+
+#: header.php:47
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: footer.php:80
+msgid "scroll to top"
+msgstr "прокрутка наверх"
+
+#: footer.php:80
+msgid "&uarr;"
+msgstr "&#8679;"
+
+#: footer.php:72 includes/functions-plugins.php:44
+msgid "WordPress"
+msgstr "WordPress"
+
+#. Translators: Responsive Theme powered by WordPress
+#: footer.php:70 includes/functions-plugins.php:42
+msgid "%1$s powered by %2$s"
+msgstr "%1$ s работает на %2$ s"
+
+#: footer.php:71
+msgid "Responsive II"
+msgstr "Чутко II"
+
+#: core/functions-theme-upsell.php:157
+msgid "Live Preview"
+msgstr "Просмотреть"
+
+#: core/functions-theme-upsell.php:153
+msgid "Install Now"
+msgstr "Установить"
+
+#: core/functions-theme-upsell.php:138
+msgid "Already installed"
+msgstr "Уже установлен"
+
+#: core/functions-theme-upsell.php:92
+msgid "Current theme"
+msgstr "Текущая тема"
+
+#: core/functions-theme-upsell.php:57
+msgid "Themes You Can Trust"
+msgstr "Темы, которой можно доверять"
+
+#: core/functions-theme-upsell.php:29 core/functions-theme-upsell.php:30
+#: includes/functions-theme-options-page.php:86
+#: includes/functions-theme-options-page.php:87
+msgid "More Themes"
+msgstr "Другие темы"
+
+#: core/functions-install.php:144
+msgid "%s is not installed. Please install this plugin manually."
+msgstr "%s не устанавливается. Пожалуйста, установите этот плагин вручную."
+
+#: core/functions-install.php:149
+msgid "Hide Notice"
+msgstr "Скрыть уведомления"
+
+#: core/functions-install.php:139
+msgid "Install"
+msgstr "Установить"
+
+#: core/functions-install.php:134
+msgid "Activate"
+msgstr "Активировать"
+
+#: core/functions-install.php:121
+msgid "This theme recommends the following plugins:"
+msgstr "Эта тема рекомендует следующие плагины:"
+
+#: core/functions-install.php:38 includes/functions-theme-options-page.php:77
+#: includes/functions-theme-options-page.php:78
+msgid "Help"
+msgstr "Помощь"
+
+#: core/functions-install.php:37 includes/functions-theme-options-page.php:127
+#: libraries/class-responsive-options.php:62
+#: libraries/class-responsive-options.php:63
+#: libraries/class-responsive-options.php:106
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: core/functions-install.php:35
+msgid "Visit site"
+msgstr "Перейти на сайт"
+
+#: core/functions-install.php:31
+msgid "Settings saved and %s activated successfully."
+msgstr "Параметры сохраняются и %s успешно активирована."
+
+#: core/functions-install.php:33
+msgid "%s activated successfully."
+msgstr "%s успешно активирована."
+
+#: comments.php:101
+msgid "Website"
+msgstr "Сайт"
+
+#: comments.php:99
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments.php:97
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:79
+msgid "Pings&#47;Trackbacks"
+msgstr "Отклики &#47;Обратные ссылки "
+
+#: comments.php:82
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s для  \"%3$s\""
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:46 comments.php:63
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:45 comments.php:62
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:44 comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:27
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Эта запись защищена паролем. Введите пароль, чтобы посмотреть комментарии."
+
+#. Author URI of the plugin/theme
+msgid "http://cyberchimps.com"
+msgstr "http://cyberchimps.com"
